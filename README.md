@@ -25,7 +25,7 @@ We participated in the challenge as Boston Team Party, a team of 7 MSc students 
 
 * **[Andrea Menta](https://github.com/Menta99)**
 
-* **[Riccardo Pala](https://github.com/RikyPala)**
+* **[Riccardo Pala](https://github.com/riccardo-pala)**
 
 * **[Giacomo Polvanesi](https://github.com/polva98)**
 
